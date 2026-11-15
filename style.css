@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    border: 10px solid;
+        border-color:red;
+        padding: 0px 20px 20px 20px;
+        width: 60%;
+        height:auto;
+        margin: 0 auto;
+    color:red;
+    font-family: "Redaction 100";
+}
+
+h1 {
+    text-align: center;
+}
+
+.small-text {
+    font-size: 0.5rem;
+    margin-top: 200px;
+}
+
+.c00limg {
+    width: 400px;
+    margin: 0 auto;
+}
